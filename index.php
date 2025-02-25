@@ -266,7 +266,7 @@ input[type="submit"]:hover {
         }
         ?>
     </div>
-    <div class="developer">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ↬𝗠𝘂𝘀𝗮 𝗥𝗮𝗷𝗽𝘂𝘁</div>
+    <div class="developer">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ↬HackerNet𝘁</div>
     <div class="telegram-button"></div>
     <script>
         function copyResponse() {
